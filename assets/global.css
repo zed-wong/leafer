@@ -1,0 +1,6 @@
+.v-btn {
+    text-transform: unset !important;
+}
+.v-ripple__container {
+    display:none !important;
+}
